@@ -1,4 +1,4 @@
-# HandSignAssistant
+# Hand Sign Assistant
 
 This project is dedicated to create a hand sign assistant with Keras.
 If you don't have any trained datasets in Keras, you can use template which is given in .h5 format
